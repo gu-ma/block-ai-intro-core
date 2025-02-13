@@ -1,8 +1,3 @@
----
-layout: inner
-title: 'block-ai-intro-core'
----
-
 # Block AI Intro
 
 ## Intro

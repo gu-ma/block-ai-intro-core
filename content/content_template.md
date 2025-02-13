@@ -1,8 +1,3 @@
----
-layout: inner
-title: 'content 01'
----
-
 # Content Name
 
 ## Content part 01
