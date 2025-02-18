@@ -19,7 +19,9 @@ General introduction to ML and AI with a focus on art and design
 ## Going further
 
 - [History - Longer history of Machine Learning](http://www.andreykurenkov.com/writing/ai/a-brief-history-of-neural-nets-and-deep-learning/)
+- [History - History of Machine Learning](https://www.algotive.ai/blog/the-history-of-artificial-intelligence-machine-learning-and-deep-learning)
 - [Math - Essence of Linear Algebra](https://www.3blue1brown.com/essence-of-linear-algebra)
+- [NN - From the ground up](https://www.3blue1brown.com/lessons/neural-networks)
 - [NN - Intro](https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/)
 - [ML - Getting started](https://www.youtube.com/watch?v=I74ymkoNTnw)
 - [NN - From scratch (Python)](https://iamtrask.github.io/2015/07/12/basic-python-network/)
