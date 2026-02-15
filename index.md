@@ -1,5 +1,5 @@
 ---
-title: "Block: AI – Intro Core (Lecture)"
+title: "Block: AI – Intro Core"
 description: "Foundational introduction to AI and machine learning for art and design students."
 theme: "AI" # AI, Generative, etc...
 block_name: "Intro Core"
@@ -13,7 +13,7 @@ tags:
   - art-and-design
 ---
 
-# Block: AI – Intro Core (Lecture)
+# Block: AI – Intro Core
 
 This block introduces core concepts in artificial intelligence and machine learning with a focus on creative practice. Students build shared vocabulary, understand key historical milestones, and learn how current AI systems are used (and misused) in art and design workflows.
 
