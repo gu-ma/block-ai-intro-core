@@ -94,13 +94,10 @@ One completed notebook including:
 ## Resources & Samples
 
 - Local resources folder: [`resources/`](./resources/)
+- Colab survival guide: [`colab-survival-guide.md`](./resources/colab-survival-guide.md)
 - Sample notebooks or demos: [`samples/`](./samples/)
 - **Required starter notebook:** [`01-colab-jupyter-first-steps.ipynb`](./samples/01-colab-jupyter-first-steps.ipynb)
 - **Optional follow-up notebook:** [`02-model-thinking-with-rules.ipynb`](./samples/02-model-thinking-with-rules.ipynb)
-
-## Suggested Materials to Add
-
-- `resources/colab-survival-guide.md` (run cell, common errors, restart runtime, save copy)
 
 ## Going Further
 
