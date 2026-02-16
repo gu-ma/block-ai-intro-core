@@ -45,7 +45,7 @@ By the end of this block, you will be able to:
 - **Slides:**
   - [presentation](#)
 - **Core notes:**
-  - [AI Intro Core Notes](./content/01-ai-intro-core.md)
+  - [AI Intro Core Notes](content/01-ai-intro-core.md)
 
 ## Part 2: Notebook Onboarding (Jupyter/Colab)
 
@@ -93,11 +93,11 @@ One completed notebook including:
 
 ## Resources & Samples
 
-- Local resources folder: [`resources/`](./resources/)
-- Colab survival guide: [`colab-survival-guide.md`](./resources/colab-survival-guide.md)
-- Sample notebooks or demos: [`samples/`](./samples/)
-- **Required starter notebook:** [`01-colab-jupyter-first-steps.ipynb`](./samples/01-colab-jupyter-first-steps.ipynb)
-- **Optional follow-up notebook:** [`02-model-thinking-with-rules.ipynb`](./samples/02-model-thinking-with-rules.ipynb)
+- Local resources folder: [`resources/`](resources/)
+- Colab survival guide: [`colab-survival-guide.md`](resources/colab-survival-guide.md)
+- Sample notebooks or demos: [`samples/`](samples/)
+- **Required starter notebook:** [`01-colab-jupyter-first-steps.ipynb`](samples/01-colab-jupyter-first-steps.ipynb)
+- **Optional follow-up notebook:** [`02-model-thinking-with-rules.ipynb`](samples/02-model-thinking-with-rules.ipynb)
 
 ## Going Further
 
