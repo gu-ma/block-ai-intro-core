@@ -3,7 +3,7 @@ title: "Block: AI – Intro Core"
 description: "Foundational introduction to AI and machine learning for art and design students."
 theme: "AI" # AI, Generative, etc...
 block_name: "Intro Core"
-block_type: lecture # lecture, workshop, 
+block_type: lecture # lecture, workshop,
 draft: false
 tags:
   - ai
@@ -26,28 +26,81 @@ By the end of this block, you will be able to:
 - Identify practical use cases and limitations of AI in art and design
 - Use core terms (model, training data, inference, bias, generalization) correctly in discussion
 
-## Content Overview
+## Session Timeline Overview
+
+- **Part 1 (Lecture + Discussion, ~45–60 min):**
+  - AI vs ML vs Deep Learning
+  - Short historical timeline
+  - Use cases, limitations, and ethics in art/design workflows
+- **Part 2 (Hands-on Lab, ~60–75 min):**
+  - Jupyter/Colab onboarding
+  - Notebook fundamentals and first ML interaction
+- **Debrief (10 min):**
+  - Reflection on black-box behavior, limits, and creative use
+
+## Part 1: Concepts + History
+
+**Format:** Online presentation
 
 - **Slides:**
   - [presentation](#)
-  - Slides are managed in separate repos.
-
-- **Content:**
+- **Core notes:**
   - [AI Intro Core Notes](./content/01-ai-intro-core.md)
 
-- **Resources:**
-  - Local resources folder: [`resources/`](./resources/)
-  - Optional books and references are available in the historical reference block (`temp/compp_f2501/.../block-ai-intro-core/resources`)
+## Part 2: Notebook Onboarding (Jupyter/Colab)
 
-- **Samples:**
-  - Sample notebooks or demos can be added in [`samples/`](./samples/)
+**Format:** Guided hands-on lab (60–75 min)
 
-## Preparation (Before Class)
+### Session Flow
+
+1. **Framing (5–10 min)**
+   - What a notebook is: text + code + output
+   - Position notebooks as a creative lab notebook (process + experiments + reflection)
+2. **Guided setup (10 min)**
+   - Open shared Colab notebook and save a personal copy
+   - Run cells, edit cells, restart runtime
+3. **Python warmup (10–15 min)**
+   - Basic variables, lists, loops, and random selection for ideation
+4. **First ML interaction (15–20 min)**
+   - Run and modify a toy classification example
+   - Connect to core terms: model, training, inference, bias, generalization
+5. **Reflection + debrief (10 min)**
+   - Notebook markdown reflection and short group discussion
+
+### Learning Outcomes
+
+By the end of this hands-on segment, students can:
+
+- Open and run a Google Colab notebook
+- Edit markdown and code cells
+- Execute and tweak a minimal ML example
+- Document one limitation and one creative use case
+
+### Your task
+
+One completed notebook including:
+
+- At least 3 executed code cells
+- At least 2 markdown reflection cells
+- 1 saved output artifact (text, table, or image)
+
+## Preparation (Between classes)
 
 - Watch: [Neural Networks (3Blue1Brown playlist)](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - Explore: [Google Colab Intro Notebook](https://colab.research.google.com/notebooks/intro.ipynb)
 - Start Python basics: [Learn Python 3 the Hard Way](https://learnpythonthehardway.org/python3/)
 - Browse examples for inspiration: [ML Art Gallery](https://mlart.co/)
+
+## Resources & Samples
+
+- Local resources folder: [`resources/`](./resources/)
+- Sample notebooks or demos: [`samples/`](./samples/)
+- **Required starter notebook:** [`01-colab-jupyter-first-steps.ipynb`](./samples/01-colab-jupyter-first-steps.ipynb)
+- **Optional follow-up notebook:** [`02-model-thinking-with-rules.ipynb`](./samples/02-model-thinking-with-rules.ipynb)
+
+## Suggested Materials to Add
+
+- `resources/colab-survival-guide.md` (run cell, common errors, restart runtime, save copy)
 
 ## Going Further
 
