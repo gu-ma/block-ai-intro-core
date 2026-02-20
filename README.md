@@ -81,6 +81,9 @@ One completed notebook including:
 
 - Local resources folder: [`resources/`](resources/)
 - Colab survival guide: [`colab-survival-guide.md`](resources/colab-survival-guide.md)
+- PDF: [`Deep_Learning_with_Python_Second_Editio.pdf`](resources/Deep_Learning_with_Python_Second_Editio.pdf)
+- PDF: [`Deep_Learning_with_PyTorch.pdf`](resources/Deep_Learning_with_PyTorch.pdf)
+- PDF: [`LearnPython3theHardWay.pdf`](resources/LearnPython3theHardWay.pdf)
 - Sample notebooks or demos: [`samples/`](samples/)
 - **Required starter notebook:** [`01-colab-jupyter-first-steps.ipynb`](samples/01-colab-jupyter-first-steps.ipynb)
 - **Optional follow-up notebook:** [`02-model-thinking-with-rules.ipynb`](samples/02-model-thinking-with-rules.ipynb)
