@@ -6,6 +6,31 @@ draft: true # Do not publish
 
 This template is designed to help you quickly scaffold and organize class blocks for your course or workshop.
 
+> [!WARNING]
+> This template auto-generates `README.md` from `index.md` on push (via GitHub Actions).
+> The workflow may create one extra bot commit after your push.
+> Before your next push, run `git pull` to avoid non-fast-forward errors.
+
+## README Sync Workflow (GitHub + Quartz)
+
+This template uses a GitHub Actions workflow to keep `README.md` synchronized from `index.md`.
+
+- `index.md` is the source of truth for content.
+- On push, the workflow copies `index.md` to `README.md`.
+- Frontmatter is removed from `README.md` so GitHub displays it cleanly.
+- The workflow commits this update automatically with `github-actions[bot]`.
+
+### What this means for your Git routine
+
+After you push your changes, the workflow may create one additional commit.
+Before your next push, run:
+
+```bash
+git pull
+```
+
+This avoids "branch is behind" / non-fast-forward errors.
+
 ## Structure
 
 - **index.md**: Main overview for the block. Update the placeholders `[theme]`, `[block_name]`, `[block_type]` and fill in each section.
