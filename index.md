@@ -43,7 +43,7 @@ By the end of this block, you will be able to:
 **Format:** Online presentation
 
 - **Slides:**
-  - [presentation](https://digitalideation.github.io/digcre_h2401/slides/intro_part01.html)
+  - [Presentation (to replace)](https://digitalideation.github.io/digcre_h2401/slides/intro_part01.html)
 - **Core notes:**
   - [AI Intro Core Notes](content/01-ai-intro-core.md)
 
