@@ -1,7 +1,8 @@
 ---
-layout: inner
 title: 'AI Intro Core Notes'
+draft: false
 ---
+
 
 # AI Intro Core Notes
 
