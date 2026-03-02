@@ -1,8 +1,7 @@
 ---
-title: 'AI Intro Core Notes'
+title: "AI Intro Core Notes"
 draft: false
 ---
-
 
 # AI Intro Core Notes
 
