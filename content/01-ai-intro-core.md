@@ -1,9 +1,9 @@
 ---
-title: "AI Intro Core Notes"
+title: "01 - AI Intro Core Notes"
 draft: false
 ---
 
-# AI Intro Core Notes
+# 01 - AI Intro Core Notes
 
 ## 1) What are AI, ML, and Deep Learning?
 
